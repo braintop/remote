@@ -242,7 +242,7 @@ export default function RemotePage() {
           )}
 
           {/* Remote Control Body */}
-          <div className="w-full max-w-[280px] bg-zinc-900 rounded-[2rem] p-6 pb-8 border border-zinc-800 shadow-2xl shadow-black/50">
+          <div dir="ltr" className="w-full max-w-[280px] bg-zinc-900 rounded-[2rem] p-6 pb-8 border border-zinc-800 shadow-2xl shadow-black/50">
 
             {/* Row 1: Power + Source */}
             <div className="flex justify-between items-center mb-8 px-2">
